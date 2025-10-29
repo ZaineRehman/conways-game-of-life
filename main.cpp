@@ -37,8 +37,6 @@
 *
 * yes, its supposed to have threading.
 * no, there is not threading.
-* 
-* ^ ignore this comment because theres definitely threading lol
 */
 
 #include <iostream>
@@ -400,4 +398,5 @@ int main() {
 	SDL_Quit();
 
 	return 0;
+
 }
