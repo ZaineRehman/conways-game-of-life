@@ -1,5 +1,7 @@
 # Conway's Game of Life! 
 
+This is a pretty old project so unfortunately the code lacks proper comments. It was also supposed to have some sort of threading but the implementation I did didn't work so I permanently set it to 1 thread. Maybe sometime in the future I'll revisit this, but for now I'll leave it as is. It's still pretty fun to play around with. 
+
 ### Controls
 ##### note: all keys are on keypad
 ```
