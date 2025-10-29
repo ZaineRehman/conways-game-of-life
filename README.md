@@ -31,7 +31,7 @@ This is a pretty old project so unfortunately the code lacks proper comments. It
 [enter] - pause
 ```
 
-### Below are a few screenshots that highlight some of the functionality. 
+### Below are a few screenshots that highlight some of the functionality
 
 <img width="1002" height="1040" alt="Screenshot 2025-10-29 132202" src="https://github.com/user-attachments/assets/ad3b5992-1ce2-4823-bd7b-51bfd9b93d1d" />
 
