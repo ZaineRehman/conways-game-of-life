@@ -1,5 +1,5 @@
 /*
-* Created by Zaine Rehman
+* Zaine Rehman
 * 3/24/2024 - 4/1/2024
 * 
 * the game of life!
@@ -397,4 +397,5 @@ int main() {
 	SDL_Quit();
 	
 	return 0;
+
 }
